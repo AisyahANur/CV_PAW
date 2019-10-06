@@ -1,0 +1,47 @@
+.main-header{
+	background-image: url(../images/headerr.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10% 0;
+}
+
+.container-fluid{
+	overflow: hidden;
+}
+.hero{
+	margin-bottom: 3%;
+}
+
+.main-tentang{
+	padding: 15% 0;
+	background-color: black;
+}
+
+.main-riwayat{
+	padding: 3% 0;
+}
+.riwayat{
+	margin-bottom: 3%;
+}
+.tabel{
+	margin-bottom: 5%;
+}
+.main-organisasi{
+	padding: 3% 0;
+	background-color: lightgrey;
+}
+.main-Keterampilan{
+	padding: 5% 0;
+}
+.main-title{
+	margin-bottom: 3%;
+}
+.progress{
+	margin-bottom: 3%;
+}
+.main-kontak{
+	padding: 10% 0;
+}
+.main-kontak h4{
+	margin-bottom: 2%;
+}
